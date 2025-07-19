@@ -1,21 +1,36 @@
 Portafolio de Ciberseguridad | Cybersecurity Portfolio  
 **Estudiante de 2° cuatrimestre especializado en Purple Team, Pentesting y Seguridad de Redes**  
 *Python | Kali Linux | Wireshark | TCP/IP | OOP Java | MITRE ATT&CK*
+# Fabricio Quesada - Portafolio de Ciberseguridad
 
-## 🔍 ¿Qué encontrarás aquí? | What you'll find  
-Colección de **20 proyectos técnicos** con enfoque en habilidades demandadas por la industria (2024):  
-- ✅ **Simulaciones Purple Team** (Threat Hunting con ML, detección APT)  
-- ✅ **Pentesting avanzado** (Active Directory, Red Team)  
-- ✅ **Desarrollo seguro** (SAST/DAST, API Security)  
-- ✅ **Herramientas propias** (IDS/IPS personalizado, SIEM con ELK)  
+## 👋 Sobre mí
+Estudiante de segundo cuatrimestre especializado en ciberseguridad con habilidades en Python, Kali Linux, Wireshark y análisis de redes TCP/IP.
 
-## 🛠️ Tech Stack Destacado  
-python
-# Purple Team & ML
-Python, Pandas, Scikit-learn, ELK Stack, YARA, Sigma Rules
+## 🛡️ Áreas de Especialización
+- Análisis de vulnerabilidades
+- Seguridad de redes TCP/IP
+- Desarrollo de herramientas en Python
+- Análisis forense con Wireshark
+- Pentesting con Kali Linux
+- Programación orientada a objetos en Java
 
-# Pentesting
-Kali Linux, Metasploit, BloodHound, Impacket, Burp Suite
+##  Proyectos Destacados
+*Próximamente - En construcción*
 
-# Network Security
-Scapy, Suricata, Zeek, TCP/IP, Zero Trust Architecture
+##  Stack Tecnológico
+
+### Lenguajes de Programación:
+- Python (Nivel intermedio)
+- Java OOP (Nivel básico)
+
+### Herramientas de Ciberseguridad:
+- Kali Linux
+- Wireshark
+- Análisis de redes TCP/IP
+
+## Contacto
+- LinkedIn: [Tu perfil de LinkedIn]
+- Email: [Tu email profesional]
+
+---
+*Portafolio en construcción - Actualizando constantemente*
