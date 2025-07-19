@@ -11,7 +11,7 @@
 ### 🐍 Herramientas en Python
 *Próximamente*
 
-### 🕵️ Análisis Forense
+### 🕵️ Análisis Forense:
 *Próximamente*
 
 ---
