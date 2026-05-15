@@ -2,16 +2,16 @@
 
 ## Categorías de Proyectos
 
-### 🔍 Análisis de Vulnerabilidades
+### Análisis de Vulnerabilidades
 *Próximamente*
 
-### 🛡️ Seguridad de Redes
+### Seguridad de Redes
 *Próximamente*
 
-### 🐍 Herramientas en Python
+### Herramientas en Python
 *Próximamente*
 
-### 🕵️ Análisis Forense:
+### Análisis Forense:
 *Próximamente*
 
 ---
