@@ -29,8 +29,8 @@ Estudiante de segundo cuatrimestre especializado en ciberseguridad con habilidad
 - Análisis de redes TCP/IP
 
 ## Contacto
-- LinkedIn: [Tu perfil de LinkedIn]
-- Email: [Tu email profesional]
+- LinkedIn: 
+- Email: 
 
 ---
 *Portafolio en construcción - Actualizando constantemente*
